@@ -10,11 +10,8 @@ A modern, responsive weather application built with React and Vite. Get real-tim
 - **Error Handling**: User-friendly error messages for invalid cities
 - **Modern UI**: Clean and intuitive interface with smooth animations
 
-## 🚀 Live Demo
 
-[View Live Demo](https://your-username.github.io/weather-app) <!-- Replace with your actual GitHub Pages URL -->
-
-## 🛠️ Technologies Used
+ 🛠️ Technologies Used
 
 - **React 19.1.1** - Frontend framework
 - **Vite 7.1.7** - Build tool and development server
@@ -22,7 +19,7 @@ A modern, responsive weather application built with React and Vite. Get real-tim
 - **CSS3** - Styling with dynamic background classes
 - **ESLint** - Code linting and formatting
 
-## 📦 Installation
+ 📦 Installation
 
 1. **Clone the repository**
    ```bash
@@ -47,7 +44,7 @@ A modern, responsive weather application built with React and Vite. Get real-tim
    - Sign up for a free account
    - Get your API key from the dashboard
 
-## 🚀 Getting Started
+🚀 Getting Started
 
 1. **Start the development server**
    ```bash
@@ -58,7 +55,7 @@ A modern, responsive weather application built with React and Vite. Get real-tim
    - Navigate to `http://localhost:5173`
    - Enter a city name and click "Get Weather"
 
-## 📁 Project Structure
+ 📁 Project Structure
 
 ```
 weather-app/
@@ -77,8 +74,7 @@ weather-app/
 ├── vite.config.js
 └── README.md
 ```
-
-## 🎨 Features Breakdown
+ 🎨 Features Breakdown
 
 ### Dynamic Backgrounds
 The app automatically changes its background based on weather conditions:
@@ -88,7 +84,7 @@ The app automatically changes its background based on weather conditions:
 - ❄️ **Snowy**: Winter snow backgrounds
 - ⛈️ **Stormy**: Thunderstorm backgrounds
 
-### Weather Information Display
+ Weather Information Display
 - Current temperature in Celsius
 - Weather description
 - Humidity percentage
@@ -109,7 +105,7 @@ This app uses the OpenWeatherMap API to fetch weather data:
 - **Parameters**: City name, API key, metric units
 - **Response**: Current weather data including temperature, humidity, wind speed, and weather conditions
 
-## 🚀 Deployment
+ 🚀 Deployment
 
 ### GitHub Pages
 1. Build the project: `npm run build`
@@ -137,20 +133,13 @@ This app uses the OpenWeatherMap API to fetch weather data:
 4. Push to the branch: `git push origin feature-name`
 5. Submit a pull request
 
-## 📝 License
+ 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🐛 Issues
+ 🐛 Issues
 
 If you find any bugs or have suggestions, please open an issue on GitHub.
 
-## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
 
----
-
-⭐ **Star this repository if you found it helpful!**
